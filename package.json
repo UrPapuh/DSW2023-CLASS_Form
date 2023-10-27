@@ -1,0 +1,19 @@
+{
+  "name": "dsw2023-class_from",
+  "version": "1.0.0",
+  "description": "Creación de formularios HTML mediante clases en PHP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UrPapuh/DSW2023-CLASS_From.git"
+  },
+  "author": "UrPapuh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UrPapuh/DSW2023-CLASS_From/issues"
+  },
+  "homepage": "https://github.com/UrPapuh/DSW2023-CLASS_From#readme"
+}
